@@ -11,9 +11,9 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-number-format": "^4.4.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "recoil": "0.0.10"
   },
-  "proxy": "http://localhost:8080",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
