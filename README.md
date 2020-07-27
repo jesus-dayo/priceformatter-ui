@@ -9,7 +9,3 @@ with the Java API Application
 3. Run `npm start`
 ## Sample GUI
 ![sample](https://github.com/jesus-dayo/priceformatter-ui/blob/master/sample-ui.png?raw=true)
-
-## Build As Monolith
-1. To build the Java App along with this UI , run `mvn package` on the 
-Price Formatter App
